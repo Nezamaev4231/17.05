@@ -1,0 +1,7 @@
+C:\Users\ы\source\repos\17.05\17.05\bin\Debug\17.05.exe.config
+C:\Users\ы\source\repos\17.05\17.05\bin\Debug\17.05.exe
+C:\Users\ы\source\repos\17.05\17.05\bin\Debug\17.05.pdb
+C:\Users\ы\source\repos\17.05\17.05\obj\Debug\17.05.csprojAssemblyReference.cache
+C:\Users\ы\source\repos\17.05\17.05\obj\Debug\17.05.csproj.CoreCompileInputs.cache
+C:\Users\ы\source\repos\17.05\17.05\obj\Debug\17.05.exe
+C:\Users\ы\source\repos\17.05\17.05\obj\Debug\17.05.pdb
